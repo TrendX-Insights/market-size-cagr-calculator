@@ -1,4 +1,4 @@
-# Open-Source Market Size & CAGR Calculator 📊
+# Open-Source Market Size & CAGR Calculator 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -6,13 +6,13 @@ A lightweight, production-ready JavaScript calculation engine for commercial mar
 
 ---
 
-## 🌐 Live Web App Demo
+##  Live Web App Demo
 This calculation library directly powers the interactive free tool:  
-👉 **[TrendX Insights Market Size & CAGR Calculator](https://trendxinsights.com/market-size-cagr-calculator/)**
+ **[TrendX Insights Market Size & CAGR Calculator](https://trendxinsights.com/market-size-cagr-calculator/)**
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Compound Annual Growth Rate (CAGR):** Multi-year growth calculation with variable intervals.
 * **Trajectory Projections:** Generate complete year-by-year baseline, bull, and bear forecasts.
@@ -21,7 +21,7 @@ This calculation library directly powers the interactive free tool:
 
 ---
 
-## 💻 Quickstart & Code Example
+##  Quickstart & Code Example
 
 ```javascript
 const MarketCalculator = require('./calculator.js');
@@ -43,7 +43,7 @@ console.log(sizing);
 
 ---
 
-## 📐 Mathematical Formulas
+##  Mathematical Formulas
 
 ### 1. Compound Annual Growth Rate (CAGR)
 $$\text{CAGR} = \left( \frac{\text{Value}_{\text{End}}}{\text{Value}_{\text{Start}}} \right)^{\frac{1}{n}} - 1$$
@@ -53,7 +53,7 @@ $$\text{Market Size}_{t} = \text{Base Value} \times (1 + \text{CAGR})^{t}$$
 
 ---
 
-## 📚 Real-World Industry Benchmarks & Reports
+##  Real-World Industry Benchmarks & Reports
 
 For benchmark market sizing data, actual growth rates, and competitive market shares calculated with this methodology, explore our syndicated research reports:
 
@@ -64,6 +64,6 @@ For benchmark market sizing data, actual growth rates, and competitive market sh
 
 ---
 
-## 📄 License
+##  License
 This project is open-source under the [MIT License](LICENSE).  
 Maintained by the research and engineering team at [TrendX Insights](https://trendxinsights.com).
